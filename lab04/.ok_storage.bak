@@ -1,0 +1,4 @@
+'skip_add-correct', (0, 70)
+'enumerate-correct', (512, 70)
+'squares-correct', (1024, 70)
+'key_of_min_value-correct', (1536, 70)
